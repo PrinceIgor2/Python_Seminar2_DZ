@@ -17,7 +17,7 @@ def summa_digits(number):
 
 user_number = float(input('Введите вещественное число: '))
 
-print(f"Сумма цифр вещественно числа составляет {summa_digits(user_number)}")
+print(f"Сумма цифр вещественного числа составляет {summa_digits(user_number)}")
 
 
 
